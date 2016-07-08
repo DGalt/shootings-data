@@ -33,7 +33,7 @@ File Specific notes:
 
 The entire cleaning process is outlined with the associated code [here](https://gist.github.com/DGalt/6b419549086d3aadff8b7cc072fc60b3)
 
-Summary Table
+### Summary Table
 
 | File         | Unique CRID Count |
 |--------------|-------------------|
